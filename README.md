@@ -2,8 +2,8 @@
 Part of Mid - Term Exam - ENPM 673 - Perception for Autonomous Robots
 
 ## Required Libraries:  
-* cv2 : To add arrows, lines or circles in the map at the desired coordinates. Version 3.4
-* Numpy
+* OpenCV : Version 3.4
+* NumPy
 * Matplotlib
 
 ## Pipeline: 
